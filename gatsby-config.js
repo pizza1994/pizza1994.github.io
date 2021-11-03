@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/pizza1994.github.io",
+  pathPrefix: "/",
   siteMetadata: {
     description: "Personal page of Luca Pitzalis",
     locale: "en",
