@@ -9,10 +9,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-sharp",
+    },
+    {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
         theme: "gh-inspired",
       },
     },
+    
   ],
 }
