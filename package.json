@@ -1,0 +1,17 @@
+{
+  "name": "pizza1994.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pizza1994/pizza1994.github.io",
+  "author": "pizza1994 <lucapizza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^4.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts":{
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  }
+}

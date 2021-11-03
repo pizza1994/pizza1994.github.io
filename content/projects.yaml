@@ -1,0 +1,49 @@
+- name: Generalized Adaptive Refinement for Grid-based Hexahedral Meshing
+
+  url: /pdf/gen_adapt_grid_hexmeshing.pdf
+  description: L. Pitzalis, M. Livesu, G. Cherchi, E. Gobbetti, R. Scateni
+
+               ACM Transactions on Graphics (to appear, SIGGRAPH Asia 2021)
+  tags:
+    - Research
+    - Hexmeshing
+  image: images/gar.png
+
+
+- name: Optimal Dual Schemes for Adaptive Grid Based Hexmeshing
+
+  url: /pdf/optimal_dual_schemes.pdf
+  description: M. Livesu, L. Pitzalis, G. Cherchi
+
+               ACM Transactions on Graphics (to appear, 2021)
+  tags:
+    - Research
+    - Hexmeshing
+  image: images/ods.png
+
+- name: "Working with Volumetric Meshes in a Game Engine: a Unity Prototype"
+
+
+  url: /pdf/volumetric_meshes_unity.pdf
+  description: L. Pitzalis, G. Cherchi, R. Scateni, L. D. Spano
+
+               Proceedings of Smart Tools and Applications in Computer Graphics (STAG 2020)
+  tags:
+    - Research
+    - Unity
+  image: images/vmu.png
+
+
+- name: "The Py3DViewer project: A python library for fast prototyping in geometry processing"
+
+
+  url: /pdf/py3dviewer.pdf
+  description: G. Cherchi, L. Pitzalis, G. L. Frongia, R. Scateni
+
+               Proceedings of Smart Tools and Applications in Computer Graphics (STAG 2019)
+  icon: github
+
+  tags:
+    - Research
+    - Python
+  image: images/py3dviewer.png
