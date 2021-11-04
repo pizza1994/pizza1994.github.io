@@ -1,7 +1,7 @@
 - profile:
   initials: LP
   name: Luca Pitzalis
-  profession: Ph.D Student
+  profession: Ph.D. Student
   image: images/profile.jpg
   location: Cagliari, Italy
   relocation: false
@@ -10,7 +10,7 @@
   focus: Automatic Hexmeshing
   focus_url: https://en.wikipedia.org/wiki/Mesh_generation
   about: |
-    I'm a Ph.D student at Department of Mathematics and Computer Science of the University of Cagliari. My research interests are in Computer Graphics and Geometry Processing, focusing on hexahedral mesh generation.
+    I'm a Ph.D. student at the Department of Mathematics and Computer Science of the University of Cagliari. My research interests are in Computer Graphics and Geometry Processing, focusing on hexahedral mesh generation.
     I love to solve problems and develop stuff, even more if it is related to the 3D world.
   skills:
     - C++

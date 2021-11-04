@@ -1,9 +1,30 @@
+- name: ShapeViewer
+
+  url: https://apps.apple.com/it/app/shapeviewer/id1593185533
+  description: An iPad app to visualize and explore 3D meshes built on top of the Pizza3DEngine library.
+  tags:
+    - App
+    - iPad
+  image: images/shapeviewer.PNG
+
+- name: Pizza3DEngine
+
+  url: https://github.com/pizza1994/Pizza3DEngine
+  description: A simple 3D Engine for iPadOS that supports both surface and volumetric meshes.
+  icon: github
+  tags:
+    - Library
+    - Swift
+    - Metal
+  image: images/p3Dengine.png
+
 - name: Generalized Adaptive Refinement for Grid-based Hexahedral Meshing
 
   url: /pdf/gen_adapt_grid_hexmeshing.pdf
   description: L. Pitzalis, M. Livesu, G. Cherchi, E. Gobbetti, R. Scateni
 
                ACM Transactions on Graphics (to appear, SIGGRAPH Asia 2021)
+  icon: github
   tags:
     - Research
     - Hexmeshing

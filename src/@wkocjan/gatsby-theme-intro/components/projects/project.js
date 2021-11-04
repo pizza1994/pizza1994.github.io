@@ -7,6 +7,7 @@ import ProjectTags from "./project-tags"
 
 const Project = props => {
   const { name, image, url, description, status, tags, icon } = props
+  const urlType = tags[0] === "Research" ? "[paper]" : tags[0] === "App" ? "[app]" : "[code]"
   return (
     <div className="border-t-4 border-line relative flex flex-wrap bg-back-light p-4 lg:p-8 bg-no-repeat text-sm mb-6">
       {image && (
@@ -23,7 +24,7 @@ const Project = props => {
             rel="noreferrer noopener"
             target="_blank"
           >
-          [paper]
+          {urlType}
           </a>
         )}
         <p className="w-full py-4 whitespace-pre-line">{description}</p>
